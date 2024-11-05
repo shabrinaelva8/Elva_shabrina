@@ -1,0 +1,76 @@
+.navbar-brand {
+    font-family: Viga;
+    font-size: 32px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+.nav-link {
+    text-transform: uppercase;
+    margin-right: 30px;
+}
+
+.nav-link:hover {
+    color: #0D6EFD;
+}
+
+.button {
+    background-color: #0D6EFD;
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 30px;
+    padding: 10px 20px;
+}
+
+.button:hover {
+    background-color: #fff;
+    color: #0D6EFD;
+}
+
+.jumbotron {
+    background-image: url("img/jumbotron.webp");
+    height: 900px;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    margin: top 80px;
+}
+
+.jumbotron .display-5 {
+    color: white;
+    margin-top: 150px;
+    margin-bottom: 30px;
+    font-weight: 200;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+}
+
+.jumbotron .display-5 span {
+    font-weight: 500;
+}
+
+.card:hover {
+    background-color: #fff;
+    margin: relative;
+    box-shadow: 2px 2px 4px 4px rgb(0,0,0,0.1);
+    transition: all 0.3s ease 0s;
+}
+
+
+.kontak {
+    text-decoration: none;
+}
+
+.footer-brand {
+    font-family: Viga;
+    font-size: 24px;
+    color: #000;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+.footer-brand {
+    font-family: viga;
+    font-size: 24px;
+    color : black;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+    text-decoration: none;
+    margin-right: 10px;
+}
